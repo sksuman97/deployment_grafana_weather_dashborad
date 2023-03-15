@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*.idea/*
+/timescale_DB_hosting/app_data/*
+/timescale_DB_hosting/app_data/*
+/grafana_hosting/app_data
+*.gitignore
