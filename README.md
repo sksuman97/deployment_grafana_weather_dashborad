@@ -10,7 +10,7 @@ It consists of 3 components:
 2. Weather data fetching API --> It fetches weather data and populates DB
 3. Live Grafana dashboard  --> It takes data from DB and plots interactive dashboard
 
-All the 3 processes are deployed independently.
+All the 3 processes are deployed independently using 3 containers.
 
 Sample Dashboard
 ---
