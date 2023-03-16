@@ -12,5 +12,4 @@ It consists of 3 steps:
 
 Sample Dashboard
 ---
-![image](https://user-images.githubusercontent.com/64405940/225412163-2cf5202a-628e-4b5e-9559-507020ed2afd.png)
-
+![image](https://user-images.githubusercontent.com/64405940/225702029-ac51a41d-5365-428d-9072-d1938b6e644e.png)
