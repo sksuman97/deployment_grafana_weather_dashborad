@@ -11,7 +11,7 @@ services:
 
   grafana:
     image: "grafana/grafana:8.2.6"
-    command: bash -c "docker login -u sumanta97 -p Sumanta@3 && /run.sh"
+    command: bash -c "docker login -u docker_hub_id -p Password && /run.sh"
     ports:
       - "5433:3000"
     volumes:
